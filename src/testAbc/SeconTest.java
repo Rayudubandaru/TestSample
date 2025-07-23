@@ -9,4 +9,9 @@ public class SeconTest {
 
 	public void get Access(){
 		system.out.println("Accesss file");
+	}
+	public void Sample Test(){
+     system.out.println("Accesss file");
 }
+}
+
